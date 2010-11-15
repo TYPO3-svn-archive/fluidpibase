@@ -23,7 +23,7 @@
  ***************************************************************/
 
 
-class Tx_FluidPiBase extends tslib_pibase {
+class tx_fluidpibase extends tslib_pibase {
 
 	/**
 	 * @var Tx_Extbase_Configuration_AbstractConfigurationManager
