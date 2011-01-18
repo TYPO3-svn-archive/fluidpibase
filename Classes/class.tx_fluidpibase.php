@@ -36,6 +36,10 @@ class tx_fluidpibase extends tslib_pibase {
 	 */
 	public static $extbaseFrameworkConfiguration;
 
+	/**
+	 * @var Tx_Fluid_View_TemplateView
+	 */
+	public $view;
 
 	/**
 	 * The configuration for the Extbase framework
